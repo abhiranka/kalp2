@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "sortNo": "DL-1001",
+    "category": "3/1 Non Lycra",
+    "weave": "3/1 RHT",
+    "width": "58",
+    "weight": "10 Oz",
+    "shade": "Indigo",
+    "weftShrinkage": "3%",
+    "type": "Basic Denim",
+    "images": []
+  },
+  {
+    "id": 2,
+    "sortNo": "DL-1002",
+    "category": "3/1 Lycra",
+    "weave": "3/1 RHT",
+    "width": "58",
+    "weight": "11 Oz",
+    "shade": "Dark Indigo",
+    "weftShrinkage": "2%",
+    "type": "Stretch Denim",
+    "images": []
+  },
+  {
+    "id": 3,
+    "sortNo": "DL-1003",
+    "category": "Satin",
+    "weave": "Satin",
+    "width": "58",
+    "weight": "9 Oz",
+    "shade": "Black",
+    "weftShrinkage": "3%",
+    "type": "Fashion Denim",
+    "images": []
+  }
+]
