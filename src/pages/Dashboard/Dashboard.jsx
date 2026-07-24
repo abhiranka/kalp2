@@ -1,22 +1,27 @@
-import { Box, Typography, Paper } from "@mui/material";
+import { Box, Typography } from "@mui/material";
+import { DenimAccordion } from "@/components/accordion";
 
 function Dashboard() {
   return (
-    <Paper
-      elevation={1}
-      sx={{
-        p: 4,
-        borderRadius: 3
-      }}
-    >
-      <Typography variant="h4" fontWeight={700}>
-        Dashboard
+    <Box sx={{ p: 3 }}>
+      <Typography
+        variant="h4"
+        fontWeight={700}
+        gutterBottom
+      >
+        Denim Library
       </Typography>
 
-      <Typography mt={2} color="text.secondary">
-        Welcome to Kalp Cotspin Denim Library.
+      <Typography
+        variant="body1"
+        color="text.secondary"
+        sx={{ mb: 3 }}
+      >
+        Browse fabric categories below.
       </Typography>
-    </Paper>
+
+      <DenimAccordion />
+    </Box>
   );
 }
 

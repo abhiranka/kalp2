@@ -2,37 +2,81 @@
   {
     "id": 1,
     "sortNo": "DL-1001",
-    "category": "3/1 Non Lycra",
-    "weave": "3/1 RHT",
-    "width": "58",
-    "weight": "10 Oz",
-    "shade": "Indigo",
-    "weftShrinkage": "3%",
-    "type": "Basic Denim",
-    "images": []
+    "category": "Knit",
+    "weave": "Single Jersey",
+    "width": "60\"",
+    "weight": "8 Oz",
+    "shade": "Blue",
+    "weftShrinkage": "2%",
+    "type": "Knitted Denim",
+    "images": [
+      "/images/DL-1001/1.jpg",
+      "/images/DL-1001/2.jpg",
+      "/images/DL-1001/3.jpg"
+    ]
   },
   {
     "id": 2,
     "sortNo": "DL-1002",
-    "category": "3/1 Lycra",
+    "category": "3/1 Non Lycra",
     "weave": "3/1 RHT",
-    "width": "58",
-    "weight": "11 Oz",
-    "shade": "Dark Indigo",
-    "weftShrinkage": "2%",
-    "type": "Stretch Denim",
-    "images": []
+    "width": "58\"",
+    "weight": "10 Oz",
+    "shade": "Indigo",
+    "weftShrinkage": "3%",
+    "type": "Basic Denim",
+    "images": [
+      "/images/DL-1002/1.jpg",
+      "/images/DL-1002/2.jpg",
+      "/images/DL-1002/3.jpg"
+    ]
   },
   {
     "id": 3,
     "sortNo": "DL-1003",
+    "category": "3/1 Lycra",
+    "weave": "3/1 RHT Stretch",
+    "width": "58\"",
+    "weight": "11 Oz",
+    "shade": "Dark Indigo",
+    "weftShrinkage": "2%",
+    "type": "Stretch Denim",
+    "images": [
+      "/images/DL-1003/1.jpg",
+      "/images/DL-1003/2.jpg",
+      "/images/DL-1003/3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "sortNo": "DL-1004",
     "category": "Satin",
     "weave": "Satin",
-    "width": "58",
+    "width": "60\"",
     "weight": "9 Oz",
     "shade": "Black",
+    "weftShrinkage": "2%",
+    "type": "Satin Denim",
+    "images": [
+      "/images/DL-1004/1.jpg",
+      "/images/DL-1004/2.jpg",
+      "/images/DL-1004/3.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "sortNo": "DL-1005",
+    "category": "Dobby",
+    "weave": "Dobby",
+    "width": "58\"",
+    "weight": "12 Oz",
+    "shade": "Grey",
     "weftShrinkage": "3%",
-    "type": "Fashion Denim",
-    "images": []
+    "type": "Dobby Denim",
+    "images": [
+      "/images/DL-1005/1.jpg",
+      "/images/DL-1005/2.jpg",
+      "/images/DL-1005/3.jpg"
+    ]
   }
 ]
